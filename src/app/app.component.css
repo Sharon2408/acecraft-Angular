@@ -1,0 +1,5 @@
+#bg{
+    background-image: url(/src/assets/images/unnamed.jpg);
+    background-size: contain;
+    overflow-x: hidden;
+}
